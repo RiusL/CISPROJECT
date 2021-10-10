@@ -5,7 +5,7 @@ import { styles } from './style';
 const index=(props)=> {
     return (
         <SafeAreaView>
-            <Text>Chat</Text>
+            <Text>Profile</Text>
         </SafeAreaView>
     );
 }
