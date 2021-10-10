@@ -15,18 +15,7 @@ const HomeTab = () => {
         // tabBarShowLabel:false,
         headerShown: false,
         tabBarStyle: {
-          position: "absolute",
-          bottom: 15,
-          borderTopColor: "#FFFFFF",
-          borderTopWidth: 0,
-          left: 10,
-          right: 10,
-          backgroundColor: 'rgba(240, 240, 240,0.5)',
-          color: "#FFFFFF",
-          borderRadius: 25,
-          height: 80,
-          paddingTop: 10,
-          paddingBottom: 10,
+
           ...styles.shadow
         },
         tabBarShowLabel: false
@@ -34,7 +23,7 @@ const HomeTab = () => {
       <Tab.Screen
         options={{
           tabBarIcon: ({ colors, size, focused }) => {
-            return <TabIcon size={size} focusedColor={"blue"} color={"grey"}/>
+            return <TabIcon size={size} focusedColor={"blue"} color={"grey"} />
           }
         }}
         name="Home" component={HomeScreen} />
@@ -68,7 +57,19 @@ const styles = StyleSheet.create({
     },
     shadowOpacity: 0.25,
     shadowRadius: 3.5,
-    elevation: 5
+    elevation: 5,
+    position: "absolute",
+    bottom: 15,
+    borderTopColor: "#FFFFFF",
+    borderTopWidth: 0,
+    left: 10,
+    right: 10,
+    backgroundColor: 'rgba(240, 240, 240,0.5)',
+    color: "#FFFFFF",
+    borderRadius: 25,
+    height: 80,
+    paddingTop: 10,
+    paddingBottom: 10
   }
 })
 
