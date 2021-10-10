@@ -1,0 +1,14 @@
+com/booktravel/BuildConfig.java
+ com.booktravel.BuildConfig
+com/booktravel/MainApplication.java
+ com.booktravel.MainApplication
+ com.booktravel.MainApplication$1
+com/booktravel/MainActivity.java
+ com.booktravel.MainActivity
+com/booktravel/ReactNativeFlipper.java
+ com.booktravel.ReactNativeFlipper
+ com.booktravel.ReactNativeFlipper$1
+ com.booktravel.ReactNativeFlipper$2
+ com.booktravel.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
