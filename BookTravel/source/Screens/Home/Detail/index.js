@@ -15,8 +15,6 @@ function index(props) {
                 <Image source={images.backIcon} style={styles.backIcon} resizeMode="contain" />
             </TouchableOpacity>
             <Image source={item.image || { uri: item.image }} style={styles.image} resizeMode="cover" />
-
-            
                 <FlatList
                     horizontal
                     showsHorizontalScrollIndicator={false}
@@ -69,4 +67,4 @@ const styles = StyleSheet.create({
         zIndex: 100
     }
 })
-export 
+export default index;
