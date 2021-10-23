@@ -13,21 +13,21 @@ const slides = [
         key: 1,
         title: 'Vịnh Hạ Long',
         text: 'Description.\nSay something cool',
-        image: images.nature01,
+        image: images.south01,
         backgroundColor: '#59b2ab',
     },
     {
         key: 2,
         title: 'Title 2',
         text: 'Other cool stuff',
-        image: images.nature02,
+        image: images.south02,
         backgroundColor: '#febe29',
     },
     {
         key: 3,
         title: 'Rocket guy',
         text: 'I\'m already out of descriptions\n\nLorem ipsum bla bla bla',
-        image: images.nature03,
+        image: images.south03,
         backgroundColor: '#22bcb5',
     }
 ];

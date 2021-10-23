@@ -1,7 +1,7 @@
 import { useNavigation } from '@react-navigation/core';
 import React from 'react';
 import { FlatList, Image, SafeAreaView, ScrollView, ScrollViewBase, Text, TouchableOpacity, View } from 'react-native';
-import { Header, Slider } from '../../Components';
+import { AreaItem, CircleImage, Header, Slider } from '../../Components';
 import { f } from '../../Utils/dimession';
 import { images } from '../../Utils/image';
 import { styles } from './style';
@@ -80,18 +80,6 @@ const index = (props) => {
     );
 }
 
-const AreaItem = ({ item, onPress }) => {
-    return (
-        <View style={styles.item}>
-            <TouchableOpacity onPress={onPress}><Image source={item.image} style={styles.retangularImg} /></TouchableOpacity>
-            <Text style={styles.name}>{item.name}</Text>
-        </View>
-    )
-}
-
-const CircleImage = ({ item, onPress }) => {
-    return <TouchableOpacity onPress={onPress}><Image source={item} style={styles.circleImg} /></TouchableOpacity>
-}
 
 const Title = ({ title, rightText }) => {
     return (
