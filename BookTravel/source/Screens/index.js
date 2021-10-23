@@ -4,6 +4,8 @@ import Search from "./Search"
 import Booking from "./Booking"
 import Profile from "./Profile"
 import Public from "./Public"
+import Greeting from "./Greeting"
+import Detail from "./Home/Detail"
 
 export const HomeScreen = () => {
     return <Home />
@@ -23,4 +25,12 @@ export const ProfileScreen = () => {
 
 export const PublicScreen = () => {
     return <Public />
+}
+
+export const GreetingScreen = () => {
+    return <Greeting />
+}
+
+export const DetailScreen=()=>{
+    return <Detail />
 }
