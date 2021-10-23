@@ -13,6 +13,7 @@ MERGED from [:react-native-screens] D:\MyApp\CIS\CISPROJECT\BookTravel\node_modu
 MERGED from [com.facebook.react:react-native:0.66.0] C:\Users\John's Kim\.gradle\caches\transforms-3\548e983e2fa4cfa186578c41faedaeae\transformed\jetified-react-native-0.66.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\John's Kim\.gradle\caches\transforms-3\9341f36f0ce470d4b55127e33c2ce075\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\John's Kim\.gradle\caches\transforms-3\7873a5158addb5bf75ec8bc5226b9f2a\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] D:\MyApp\CIS\CISPROJECT\BookTravel\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\John's Kim\.gradle\caches\transforms-3\5880c3ffcd9f3ffb65016eb160ab2121\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.5.0] C:\Users\John's Kim\.gradle\caches\transforms-3\247a35ea3454e43292f80ed4e869afa6\transformed\jetified-stetho-2.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\John's Kim\.gradle\caches\transforms-3\2e3be5b59ff1001e620058abe4b7c8c9\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
@@ -171,6 +172,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\John
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\John's Kim\.gradle\caches\transforms-3\9341f36f0ce470d4b55127e33c2ce075\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\John's Kim\.gradle\caches\transforms-3\7873a5158addb5bf75ec8bc5226b9f2a\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\John's Kim\.gradle\caches\transforms-3\7873a5158addb5bf75ec8bc5226b9f2a\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\MyApp\CIS\CISPROJECT\BookTravel\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] D:\MyApp\CIS\CISPROJECT\BookTravel\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\John's Kim\.gradle\caches\transforms-3\5880c3ffcd9f3ffb65016eb160ab2121\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\John's Kim\.gradle\caches\transforms-3\5880c3ffcd9f3ffb65016eb160ab2121\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:stetho:2.5.0] C:\Users\John's Kim\.gradle\caches\transforms-3\247a35ea3454e43292f80ed4e869afa6\transformed\jetified-stetho-2.5.0\AndroidManifest.xml:5:5-7:41
