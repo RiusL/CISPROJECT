@@ -20,10 +20,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-<<<<<<< HEAD
-=======
 project.xcworkspace
->>>>>>> Rius
 
 # Android/IntelliJ
 #
@@ -33,36 +30,24 @@ build/
 local.properties
 *.iml
 
-# node.js
+# node.jss
 #
 node_modules/
-<<<<<<< HEAD
-npm-debug.log
-yarn-error.log
-=======
 package-lock.json # include if you are using npm - don't use both yarn and npm
 npm-debug.log
 yarn-error.log
 yarn.lock # include if you are using yarn - don't use both npm and yarn
->>>>>>> Rius
 
 # BUCK
 buck-out/
 \.buckd/
 *.keystore
-<<<<<<< HEAD
 !debug.keystore
 
 
 # fastlane
 #
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
-=======
-
-# Fastlane
-#
-# It is recommended to not store the screenshots in the git repo. Instead, use Fastlane to re-generate the
->>>>>>> Rius
 # screenshots whenever they are needed.
 # For more information about the recommended setup visit:
 # https://docs.fastlane.tools/best-practices/source-control/
@@ -72,11 +57,7 @@ buck-out/
 */fastlane/screenshots
 
 # Bundle artifact
-<<<<<<< HEAD
 *.jsbundle
 
 # CocoaPods
 /ios/Pods/
-=======
-*.jsbundle
->>>>>>> Rius

@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 import React from 'react';
 import { Text, TouchableOpacity, View } from 'react-native';
-import { colors } from '../../Utils/color';
 import { f } from '../../Utils/dimession';
 
 function index(props) {
@@ -14,19 +12,3 @@ function index(props) {
 }
 
 export default index;
-=======
-import React from 'react'
-import { View, Text ,TouchableOpacity } from 'react-native'
-import { styles } from './styles'
-const index = (props) => {
-    return (
-        <View>
-        <TouchableOpacity onPress={props.onClick}>
-            <Text style={styles.text}>{props.text}</Text>
-        </TouchableOpacity>
-        </View>
-    )
-}
-
-export default index
->>>>>>> Rius

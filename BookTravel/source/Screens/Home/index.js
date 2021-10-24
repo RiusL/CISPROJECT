@@ -1,6 +1,5 @@
 import { useNavigation } from '@react-navigation/core';
 import React from 'react';
-<<<<<<< HEAD
 import { FlatList, Image, SafeAreaView, ScrollView, ScrollViewBase, Text, TouchableOpacity, View } from 'react-native';
 import { AreaItem, CircleImage, Header, Slider } from '../../Components';
 import { f } from '../../Utils/dimession';
@@ -94,17 +93,3 @@ const Title = ({ title, rightText }) => {
 }
 
 export default index;
-=======
-import {SafeAreaView, Text} from 'react-native';
-import {styles} from './style';
-
-const index = props => {
-  return (
-    <SafeAreaView style={styles.container}>
-      <Text>Home</Text>
-    </SafeAreaView>
-  );
-};
-
-export default index;
->>>>>>> Rius

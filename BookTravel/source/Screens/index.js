@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-import React from "react";
-import Home from "./Home"
-import Search from "./Search"
-import Booking from "./Booking"
-import Profile from "./Profile"
-import Public from "./Public"
 import Greeting from "./Greeting"
 import Detail from "./Home/Detail"
-
-=======
 import React from 'react';
 import Home from './Home';
 import Search from './Search';
@@ -19,7 +10,6 @@ import MyArticle from './Profile/MyArticle';
 import PublicArticle from './Profile/PublicArticle';
 import UpdatePassword from './Profile/UpdatePassword';
 import UpdateProfile from './Profile/UpdateProfile';
->>>>>>> Rius
 export const HomeScreen = () => {
   return <Home />;
 };
@@ -37,20 +27,17 @@ export const ProfileScreen = () => {
 };
 
 export const PublicScreen = () => {
-<<<<<<< HEAD
-    return <Public />
+  return <Public />
 }
 
 export const GreetingScreen = () => {
-    return <Greeting />
+  return <Greeting />
 }
 
-export const DetailScreen=()=>{
-    return <Detail />
+export const DetailScreen = () => {
+  return <Detail />
 }
-=======
-  return <Public />;
-};
+
 export const ArticleScreen = () => {
   return <MyArticle />;
 };
@@ -63,4 +50,3 @@ export const UpdatePasswordScreen = () => {
 export const UpdateProfileScreen = () => {
   return <UpdateProfile />;
 };
->>>>>>> Rius
