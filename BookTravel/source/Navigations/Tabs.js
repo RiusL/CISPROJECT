@@ -17,7 +17,8 @@ const HomeTab = () => {
         tabBarStyle: {
           ...styles.shadow
         },
-        tabBarShowLabel: false
+        tabBarShowLabel: false,
+        
       }}>
       <Tab.Screen
         name="Home" 
