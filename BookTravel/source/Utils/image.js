@@ -18,5 +18,5 @@ export const images = {
     south02:require("../../icon/south02.jpg"),
     south03:require("../../icon/south03.jpg"),
 
-    backIcon:require("../../icon/back.png")
+    backIcon:require("../../icon/left-arrow.png")
 }

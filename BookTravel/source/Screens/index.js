@@ -1,36 +1,41 @@
 import React from "react";
-import Home from "./Home"
-import Search from "./Search"
-import Booking from "./Booking"
-import Profile from "./Profile"
-import Public from "./Public"
-import Greeting from "./Greeting"
-import Detail from "./Home/Detail"
+import Home from "./Home";
+import Search from "./Search";
+import Booking from "./Booking";
+import Profile from "./Profile";
+import UpdateProfile from "./Profile/UpdateProfile";
+import Public from "./Public";
+import Greeting from "./Greeting";
+import Detail from "./Home/Detail";
 
 export const HomeScreen = () => {
-    return <Home />
-}
+  return <Home />;
+};
 
 export const SearchScreen = () => {
-    return <Search />
-}
+  return <Search />;
+};
 
 export const BookingScreen = () => {
-    return <Booking />
-}
+  return <Booking />;
+};
 
 export const ProfileScreen = () => {
-    return <Profile />
-}
+  return <Profile />;
+};
 
 export const PublicScreen = () => {
-    return <Public />
-}
+  return <Public />;
+};
 
 export const GreetingScreen = () => {
-    return <Greeting />
-}
+  return <Greeting />;
+};
 
-export const DetailScreen=()=>{
-    return <Detail />
-}
+export const DetailScreen = () => {
+  return <Detail />;
+};
+
+export const UpdateProfileScreen = () => {
+  return <UpdateProfile />;
+};
