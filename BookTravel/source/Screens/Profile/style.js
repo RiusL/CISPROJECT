@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {StyleSheet, Dimensions} from 'react-native';
 const {width, height} = Dimensions.get('screen');
 export const styles = StyleSheet.create({
@@ -39,3 +40,8 @@ export const styles = StyleSheet.create({
     marginHorizontal:10
   }
 });
+=======
+import { StyleSheet } from "react-native";
+
+export const styles = StyleSheet.create({});
+>>>>>>> MarcusLu
