@@ -11,8 +11,13 @@ import com.facebook.react.shell.MainReactPackage;
 import java.util.Arrays;
 import java.util.ArrayList;
 
+<<<<<<< HEAD
 // react-native-linear-gradient
 import com.BV.LinearGradient.LinearGradientPackage;
+=======
+// react-native-image-crop-picker
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
+>>>>>>> Rius
 // react-native-safe-area-context
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
@@ -62,7 +67,11 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
+<<<<<<< HEAD
       new LinearGradientPackage(),
+=======
+      new PickerPackage(),
+>>>>>>> Rius
       new SafeAreaContextPackage(),
       new RNScreensPackage()
     ));

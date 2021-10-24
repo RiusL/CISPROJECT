@@ -1,4 +1,5 @@
 import TabIcon from "./TabIcon"
+<<<<<<< HEAD
 import Header from "./Header"
 import Slider from "./Slider"
 import Button from "./Button"
@@ -14,4 +15,12 @@ export {
     Search,
     AreaItem,
     CircleImage
+=======
+import Button from "./Button"
+import Avatar from "./Avatar"
+export {
+    TabIcon,
+    Button,
+    Avatar
+>>>>>>> Rius
 }

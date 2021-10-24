@@ -1,0 +1,98 @@
+[33mcommit 86471d264b7058b56eec51bc478c9c52e3a2d6d4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: loiloc1105 <loiloc1105@gmail.com>
+Date:   Sun Oct 24 15:31:29 2021 +0700
+
+    clear node_modules
+
+[33mcommit 3d796bfb81f5b6a0159f1cca7dc583d17a3856d4[m
+Merge: 8bde2692 0c5e3c30
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sat Oct 23 22:45:38 2021 +0700
+
+    Merge branch 'Kiyoshi'
+
+[33mcommit 0c5e3c309427685945a29ad0a96482305a22310d[m[33m ([m[1;31morigin/Kiyoshi[m[33m)[m
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sat Oct 23 22:38:28 2021 +0700
+
+    Search screen
+
+[33mcommit 8bde2692dd35434b705f5106bcaee71a4246f07b[m
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sat Oct 23 21:04:14 2021 +0700
+
+    merge Kiyoshi branch
+
+[33mcommit bac6cbeb97181720fe52cc8b5a542dbf0752dbd2[m
+Merge: b2eadf65 c32a71ed
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sat Oct 23 20:58:11 2021 +0700
+
+    Merge branch 'Kiyoshi'
+
+[33mcommit c32a71ed4567cffe8b805af9aaa94520cbb4c1ec[m
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sat Oct 23 20:57:13 2021 +0700
+
+    fix detail
+
+[33mcommit 54e612e404b869f565032833d49154a09a8622de[m
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sat Oct 23 20:56:20 2021 +0700
+
+    home - detail
+
+[33mcommit b2eadf652ddfcde56875ee6e18d902205f46c46f[m
+Merge: e1b31b16 404ca9d8
+Author: chithien <58135216+RiusL@users.noreply.github.com>
+Date:   Sun Oct 10 19:19:22 2021 +0700
+
+    Merge pull request #2 from RiusL/Rius
+    
+    Merge pull request #1 from RiusL/master
+
+[33mcommit 404ca9d8cd8c8e265c01af08ede4a1ebcb5888de[m
+Merge: 04d24d9a e1b31b16
+Author: chithien <58135216+RiusL@users.noreply.github.com>
+Date:   Sun Oct 10 19:17:56 2021 +0700
+
+    Merge pull request #1 from RiusL/master
+    
+    pull
+
+[33mcommit e1b31b16ca3de1499ba09ea3eacb751f69632e46[m
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sun Oct 10 13:57:03 2021 +0700
+
+    bottom navigation
+
+[33mcommit dc1295622ad64e48a490dfef993639dccb1d6432[m
+Merge: 39c401a3 04d24d9a
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sun Oct 10 11:07:37 2021 +0700
+
+    Merge branch 'Rius' into Kiyoshi
+
+[33mcommit 39c401a3db57d3c558074c72b6b5a5143eda7a08[m
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sun Oct 10 10:20:39 2021 +0700
+
+    bottom tab
+
+[33mcommit 4180c544ec49b9e6dbba9bc7ce7266375cdf94e6[m
+Author: minhthuanluu <minhthuan.luu@gmail.com>
+Date:   Sat Oct 9 23:38:58 2021 +0700
+
+    add bottom tab - a half
+
+[33mcommit 04d24d9aa9236496e4adb82373384021788511fb[m
+Author: RiusL <chithien11294@gmail.com>
+Date:   Sat Oct 9 20:05:03 2021 +0700
+
+    add icon
+
+[33mcommit 2f5db4b16d65d3305eff08baea1e029aa469bcd0[m
+Author: RiusL <chithien11294@gmail.com>
+Date:   Sat Oct 9 12:08:44 2021 +0700
+
+    first commit

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { StyleSheet } from "react-native";
 import { colors } from "../../Utils/color";
 import { f, width } from "../../Utils/dimession";
@@ -50,3 +51,12 @@ export const styles = StyleSheet.create({
         fontWeight: "bold"
     }
 })
+=======
+import {StyleSheet} from 'react-native';
+
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+  },
+});
+>>>>>>> Rius
