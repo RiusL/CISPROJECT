@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#6699FF",
     marginHorizontal: width * 0.1,
     marginTop: width * 0.03,
-    borderWidth: 1,
+    // borderWidth: 1,
   },
   btnEdit: {
     height: width * 0.1,
